@@ -1,0 +1,78 @@
+Disco /dev/loop0: 4 KiB, 4096 bytes, 8 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop1: 74,24 MiB, 77844480 bytes, 152040 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop2: 505,09 MiB, 529625088 bytes, 1034424 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop3: 269,63 MiB, 282722304 bytes, 552192 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop4: 10,72 MiB, 11239424 bytes, 21952 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop5: 91,69 MiB, 96141312 bytes, 187776 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop6: 10,32 MiB, 10821632 bytes, 21136 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/loop7: 476 KiB, 487424 bytes, 952 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+
+
+Disco /dev/sda: 10 GiB, 10732404736 bytes, 20961728 sectores
+Disk model: VBOX HARDDISK   
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+Tipo de etiqueta de disco: gpt
+Identificador del disco: EBFF75DA-DFCB-4B1B-A06A-F8AA5F24F081
+
+Dispositivo Comienzo    Final Sectores Tamaño Tipo
+/dev/sda1       2048     4095     2048     1M Arranque de BIOS
+/dev/sda2       4096 20959231 20955136    10G Sistema de ficheros de Linux
+
+
+Disco /dev/sdb: 2 GiB, 2147483648 bytes, 4194304 sectores
+Disk model: VBOX HARDDISK   
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
+Tipo de etiqueta de disco: dos
+Identificador del disco: 0x05367fd2
+
+Dispositivo Inicio Comienzo   Final Sectores Tamaño Id Tipo
+/dev/sdb1              2048 2099199  2097152     1G 83 Linux
+/dev/sdb2           2099200 3123199  1024000   500M 82 Linux swap / Solaris
+
+
+Disco /dev/loop8: 38,73 MiB, 40615936 bytes, 79328 sectores
+Unidades: sectores de 1 * 512 = 512 bytes
+Tamaño de sector (lógico/físico): 512 bytes / 512 bytes
+Tamaño de E/S (mínimo/óptimo): 512 bytes / 512 bytes
